@@ -21,6 +21,8 @@ I also included the things I have learned while makings this app under the `NOTE
 |--|--|
 
 - By starting the meeting, attendees can track who will talk now. We can also see time progress in from the bar in the header. The circle also shows the attendee progress of the scrum. 
+
+
 ![enter image description here](https://lh3.googleusercontent.com/mo7FMqtQm6aafR8Kq7TTtx0tEwoL1ahR3eagbhkdFOac6Udmpf83ciu2ZtQQnJGquNMqiWknoM-x2k1uQSc1BE4g2oNFL1VbmisZ3aq4X3m3gO7k9bR20sY1Jyb7mnxvYokl3vmgJQQdcaL-NPw4hjHvb5GPR-hX_dt2xuz-OTlHG_ixxIA11SWfY4jc4uArZoG37ydtGb-LQ5ru8yGEdA_Yty3VOm8B_hzf7Unqco4zK7pT8Lc26NUlVpqpvY2VHhOhIW4ug9lTH5b9pfZy0IhR8Gr1gvv3970rovwiOeaQPn-bKjXjjOJ8GYBssUharFXOAP3_ztIi8u-gJmhvz9M34kY87IrIs4siPc2JxIi2qKLQaRl5sm1KM2XuYctGHvZgdDBd98IgJ55UcVtUW8vH0XviYfAcFA99t8vwjSve-Dgbhuqks3lk6l6u0w_Hu7LjpCwYxrcv-Uiw_fy1WU_nGOSgWPNpoqXd_xAKT1UT_TPMV9XOmMSLsi3BmBtzuRaHaTi7FlHELGVYKgE-VFS71qdQ8-h0fTcmQiA5n_IXBedER-VEczPisvrZgORi520GiIp-Jw8knr9a3DFhMNih73rMvgn4k8Xafu9-VMk_qzzj2sC3tlHcai8_lA75fq7H4KkjRjo9ENtVgeMloh2VpUDdXniWPkw5rLqC-0-Xl8lDHSMm34weK2_Usj6q4gaSQdEcwXZf8yFQ9ItrNEVA9J_eMnCSDKWIPIWQnXYqrxs2sZ0wKTN5QENrfKhurbD35TX_3gpSjw2LqQ3re8es0Ta01PA0--mXQJuwlnpeXNCOqGx747VJZs6UihpVK5Rbs8zgqFs32knIl31gjYp7AzPqO3QCaXixLz7kLDc=w378-h816-no?authuser=1)
 
 - The app also record speech during the scrum and transcribes them. Transcripts can be seen from history section.
