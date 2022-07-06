@@ -1,7 +1,4 @@
-# ScrumDinger
-
-Created: June 24, 2022 11:03 AM
-Type: App
+# ScrumDinger Notes
 
 # Source of Truth
 
